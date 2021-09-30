@@ -20,13 +20,13 @@ git clone https://github.com/DanielThiessen25/mywallet-front-end.git
 
 cd mywallet-front-end
 ```
-3. Install Dependencies
+2. Install Dependencies
 ```bash
 npm i
 ```
-5. Run the front-end with
+3. Run the front-end with
 ```bash
 npm run start
 ```
-6. Check out the instructions to connect a local server and creating the database for persistance of data in your machine [here](https://github.com/DanielThiessen25/mywallet-back-end)
-7. Have a nice wallet moment! :)
+4. Check out the instructions to connect a local server and creating the database for persistance of data in your machine [here](https://github.com/DanielThiessen25/mywallet-back-end)
+5. Have a nice wallet moment! :)
